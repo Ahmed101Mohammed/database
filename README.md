@@ -8,3 +8,4 @@ the solutions directly for searching, or learning purposes.
 ## Exercises
 - [Select Queries](./exercises/select-queries.md)
 - [Query With Constraints P1](./exercises/query-with-constraints-p1.md)
+- [Query With Constraints P2](./exercises/query-with-constraints-p2.md)
