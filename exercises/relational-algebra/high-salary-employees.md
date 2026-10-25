@@ -1,4 +1,4 @@
-# [Exercise](https://relational.alexcole.net/learn/basic-operations)
+# [Exercise: High Salary Employees](https://relational.alexcole.net/learn/basic-operations)
 Find all employees who earn more than $80,000 per year. Use the selection 
 (select) operation to filter tuples based on a condition.
 > **Task:**    

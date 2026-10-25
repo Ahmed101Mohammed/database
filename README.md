@@ -12,3 +12,4 @@ the solutions directly for searching, or learning purposes.
 
 ## Relational Algebra Exercises
 - [High Salary Employees](./exercises/relational-algebra/high-salary-employees.md)
+- [Employee Names](./exercises/relational-algebra/employee-names.md)
