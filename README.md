@@ -15,3 +15,4 @@ the solutions directly for searching, or learning purposes.
 - [High Salary Employees](./exercises/relational-algebra/high-salary-employees.md)
 - [Employee Names](./exercises/relational-algebra/employee-names.md)
 - [Employee Summary](./exercises/relational-algebra/employee-summary.md)
+- [Department 10 Employees](./exercises/relational-algebra/department-10-employees.md)
