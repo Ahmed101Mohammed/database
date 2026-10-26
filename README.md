@@ -16,3 +16,4 @@ the solutions directly for searching, or learning purposes.
 - [Employee Names](./exercises/relational-algebra/employee-names.md)
 - [Employee Summary](./exercises/relational-algebra/employee-summary.md)
 - [Department 10 Employees](./exercises/relational-algebra/department-10-employees.md)
+- [High Earner Names](./exercises/relational-algebra/high-earner-names.md)
