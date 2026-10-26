@@ -18,3 +18,4 @@ the solutions directly for searching, or learning purposes.
 - [Department 10 Employees](./exercises/relational-algebra/department-10-employees.md)
 - [High Earner Names](./exercises/relational-algebra/high-earner-names.md)
 - [Employees and Their Tasks](./exercises/relational-algebra/employees-and-their-tasks.md)
+- [Employees with Department Info](./exercises/relational-algebra/employees-with-department-info.md)
